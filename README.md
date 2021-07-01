@@ -1,4 +1,6 @@
-# DH 101: Practicing The Digital Humanities
+# DH 101: Practicing The Digital Humanities Group Project
+![Final Presentation DH101](https://user-images.githubusercontent.com/70735305/124086625-190eee80-da06-11eb-98ec-0302013b6d55.png)
+
 A repository for my final group project for Digital Humanities 101: Practicing Digital Humanities taught by Dr Brooks Jessup at UC Berkeley as a part of the Digital Humanities Summer Minor, 2021
 
 ## Group Project Abstract
